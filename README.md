@@ -103,6 +103,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BOUGUERZA/BOUGUERZA/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BOUGUERZA/BOUGUERZA/main/dist/snake.svg" alt="Snake animation" />
+
 
 ###
