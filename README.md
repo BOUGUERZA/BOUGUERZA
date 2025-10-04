@@ -84,15 +84,16 @@
 
   <!-- 🌸 LinkedIn (pink accent) -->
   <a href="https://www.linkedin.com/in/nezha-bouguerza/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FF69B4" height="40" alt="LinkedIn icon" style="margin-right:15px;" />
+    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FF69B4" height="55" alt="LinkedIn icon" style="margin-right:20px;" />
   </a>
 
   <!-- 💌 Gmail (soft rose) -->
   <a href="mailto:bouguerzanezha@gmail.com" style="text-decoration:none;">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=FFB6C1" height="40" alt="Gmail icon" />
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=FFB6C1" height="55" alt="Gmail icon" />
   </a>
 
 </div>
+
 
 
 
