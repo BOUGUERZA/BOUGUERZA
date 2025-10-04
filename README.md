@@ -83,16 +83,17 @@
 <div align="left">
 
   <!-- 🌸 LinkedIn -->
-  <a href="https://www.linkedin.com/in/nezha-bouguerza/" target="_blank" style="text-decoration:none; margin-right:20px;">
-    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FF69B4" height="45" alt="LinkedIn icon" />
+  <a href="https://www.linkedin.com/in/nezha-bouguerza/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn logo" style="margin-right: 10px;" />
   </a>
 
   <!-- 💌 Gmail -->
-  <a href="mailto:bouguerzanezha@gmail.com" style="text-decoration:none; margin-right:20px;">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=FFB6C1" height="45" alt="Gmail icon" />
+  <a href="mailto:bouguerzanezha@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" alt="Gmail logo" />
   </a>
 
 </div>
+
 
 
 
@@ -102,6 +103,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BOUGUERZA/BOUGUERZA/output/snake.svg" alt="Snake animation" />
 
 ###
