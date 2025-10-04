@@ -82,17 +82,18 @@
 
 <div align="left">
 
-  <!-- 🌸 LinkedIn -->
-  <a href="https://www.linkedin.com/in/nezha-bouguerza/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn logo" style="margin-right: 10px;" />
+  <!-- 🌸 LinkedIn (pink accent) -->
+  <a href="https://www.linkedin.com/in/nezha-bouguerza/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FF69B4" height="40" alt="LinkedIn icon" style="margin-right:15px;" />
   </a>
 
-  <!-- 💌 Gmail -->
-  <a href="mailto:bouguerzanezha@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" alt="Gmail logo" />
+  <!-- 💌 Gmail (soft rose) -->
+  <a href="mailto:bouguerzanezha@gmail.com" style="text-decoration:none;">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=FFB6C1" height="40" alt="Gmail icon" />
   </a>
 
 </div>
+
 
 
 ###
