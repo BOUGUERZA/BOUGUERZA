@@ -1,27 +1,27 @@
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FyYTV0eWh2cXJyYWs4bHRibGpvajRhcWw3Z2s0cXAydXdvdjliYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="Pixel Art Welcome GIF" />
-  <h1>Hey là, Joueur.euse ! 👋</h1>
+  <h1>Hey there, Player! 👋</h1>
 </div>
 
 ---
 
-### 🌟 Stats du Joueur (About Me)
+### 🌟 Player Stats (About Me)
 
 <div align="center">
   <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBxNjAwbWF0Mm1oZ3R5NGVxcjd6a3BnMjUzdWhjMGlrYmxhbnlhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" alt="Coding GIF" />
   <img align="right" height="150" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Keyboard GIF" />
 </div>
 
-* 🌍 Je m'appelle **Nezha Bouguerza**, je suis du **Maroc**.
-* 💻 **Rôle Actuel :** Développeuse de logiciels (Software Developer). J'adore construire des choses !
-* 📚 **Quête en Cours :** J'apprends de nouvelles compétences : **Java, React.js, Big Data et IOT**. (Toujours en mode XP !)
-* 🎨 **Loisirs :** Quand je ne code pas, je suis une créative : j'**écris**, je **fais du design** et je **découvre les techs de demain**.
+* 🌍 I'm **Nezha Bouguerza** from **Morocco**.
+* 💻 **Current Role:** Software Developer. I love building things!
+* 📚 **Current Quest:** I'm leveling up my skills in **Java, React.js, Big Data, and IOT**. (Always on XP mode!)
+* 🎨 **Hobbies:** When I'm not coding, I'm a creative: I **write**, **design**, and **learn new technologies**.
 
 ---
 
-### 🕹️ Ma Boîte à Outils (Tech Stack)
+### 🕹️ My Tool Kit (Tech Stack)
 
-Prête pour le niveau supérieur ! Voici les langages et outils que j'utilise pour mes projets.
+Ready for the next level! Here are the languages and tools I use for my projects.
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" title="C" />
@@ -58,7 +58,7 @@ Prête pour le niveau supérieur ! Voici les langages et outils que j'utilise po
 
 ---
 
-### 🏆 Scores et Badges GitHub
+### 🏆 GitHub Scores and Badges
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BOUGUERZA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Stats Graph" style="margin-right: 15px;" />
@@ -67,7 +67,7 @@ Prête pour le niveau supérieur ! Voici les langages et outils que j'utilise po
 
 ---
 
-### 📬 Où me trouver
+### 📬 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nezha-bouguerza/" target="_blank">
