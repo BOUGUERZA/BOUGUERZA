@@ -1,11 +1,44 @@
-<h2 align="left">Hi 👋! My name is Nezha Bouguer and I'm a software developer from Morocco.</h2>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/nezha-bouguerza/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:bougueranezha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
+</div>
+
+
+###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BOUGUERZA.BOUGUERZA&"  />
 </div>
+
+###
+
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">
+  I'm <strong>Nezha Bouguerza</strong> from <strong>Morocco</strong>.<br><br>
+  - 🔭 I’m working as a <strong>software developer</strong>.<br>
+  - 📚 I'm currently learning <strong>Java, React.js, Big Data and IOT</strong>.<br>
+  - ⚡ In my free time I <strong>write, design, and learn new technologies</strong>.
+</p>
+
+###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BOUGUERZA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -85,16 +118,3 @@
 
 ###
 
-<div align="left">
-
-  <!-- 🌸 LinkedIn -->
-  <a href="https://www.linkedin.com/in/nezha-bouguerza/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn logo" style="margin-right: 10px;" />
-  </a>
-
-  <!-- 💌 Gmail -->
-  <a href="mailto:bouguerzanezha@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" alt="Gmail logo" />
-  </a>
-
-</div>
